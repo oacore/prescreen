@@ -1,0 +1,246 @@
+A set of actionable recommendations:
+Drawing on both the theoretical work and stakeholder feedback, the final paper will propose practical changes to how research impact is measured and communicated. These may include new hybrid AI-human evaluation approaches or recommendations on how to reduce the burden of evidence-gathering while improving quality and accountability.
+The project will utilise available data sources-including open scholarly aggregators such as CORE, open citation networks, REF case studies, patent databases, media archives, policy citation datasets, and spinout trackers-and evaluate how AI tools such as natural language processing, entity recognition, and knowledge graph analysis might be applied.
+By the end of the fellowship, this work will offer a timely, researchinformed foundation for rethinking how research impact is understood and assessed in a rapidly changing technological and political landscape. It aims to support UKRI and the wider funding ecosystem in making smarter, more strategic, and more accountable decisions about where to https://funding-service.ukri.org/applications/APP71476
+while Kousha and Thelwall (2022) reviewed emerging AI tools for research evaluation. These developments indicate that AI may soon have a significant role to play in understanding research significance and reach. Yet stakeholder reception remains mixed. Some welcome AI's potential to enhance transparency and efficiency but others raise concerns over trust, interpretability, and potential misuse. Work from healthcare and evaluation contexts-e.g. McCradden et al. (2023); Scott et al. (2021); Leslie (2019)-highlights that responsible use of AI depends heavily on monitoring, transparency, and inclusive design.
+This project responds to these intersecting pressures with a constructive agenda: how can AI be responsibly and usefully integrated into research evaluation? What might it mean for funders, researchers, and policymakers to gain deeper insight into how science interacts with society? The project focuses in particular on the changing nature of impact in an AI-mediated system. As AI influences what is prioritised, how knowledge is produced, and how it spreads, it also shifts the ways research creates value. Traditional metrics such as citations are narrow and lagging. Broader signals-media uptake, policy engagement, spinouts, or public adoption-are harder to trace systematically, but increasingly needed to inform research strategy and public accountability.
+
+Aims and Objectives
+The core aim of this fellowship is to explore how AI can help us rethink, synthesise, and communicate the value of research in a changing landscape.
+
+It will:
+Review the current landscape of impact indicators (e.g. citations, REF case studies, policy mentions, patents, spinouts) Explore the epistemic and institutional implications of using AI to evaluate research value Develop and test large language model-based approaches to extract and synthesise impact evidence across heterogeneous sources https://funding-service.ukri.org/applications/APP71476
+Engage stakeholders to understand practical needs and evaluate the usefulness and credibility of AI-generated outputs Produce actionable, evidence-based recommendations for how evaluation and funding processes could evolve
+The fellowship is structured around three integrated outputs:
+1. A review and position paper, mapping the field and proposing a vision for evaluating impact in the age of AI
+2. An empirical study, testing model outputs on real-world research cases and assessing their credibility and relevance 3. A recommendations report, translating findings into practical guidance for policy, funding, and further research
+
+Timeliness and Relevance
+This work is both timely and urgent. The capabilities of generative AI have expanded dramatically, with models like GPT-4 and Claude now capable of synthesising complex text with high fluency and growing epistemic sensitivity. At the same time, the research community is widely recognising that current impact assessment systems are under strain. Recent work (e.g. Polyportis & Pahos, 2024) highlights both the promise and the risks of using AI in assessment, underscoring the need for thoughtful, evidence-led integration. In parallel, studies of AI in systematic reviews and knowledge synthesis (Ge et al., 2024) show that while AI can improve efficiency, human oversight remains critical for rigour and reliability. UKRI has already begun exploring the potential of AI to support evidence synthesis, peer review, and strategic decision-making. This project contributes to that agenda by offering both conceptual frameworks and practical prototypes. At a time when governments are demanding greater accountability from research funding, and as the societal legitimacy of science comes under scrutiny, the ability to communicate research value clearly and credibly is more important than ever. This fellowship is distinctive in several ways: It brings a computational perspective to metascience, focusing not just on AI's theoretical implications but on how it can be applied to realworld challenges in research evaluation.
+
+Contribution and Innovation
+It goes beyond general AI ethics to address a specific, high-impact use case: understanding the societal value of scientific work.
+It combines technical development (e.g. prompt engineering and model evaluation) with qualitative engagement(e.g. user interviews and feedback loops), ensuring both rigour and usability.
+It critically interrogates the assumptions that underpin impact metrics, and how these might need to shift in an AI-mediated research system.
+The project is grounded in real data-REF case studies, policy documents, patents, and more-and involves real users, including funders, analysts, and policy actors. Its findings will be directly applicable within the UK research funding ecosystem and relevant internationally.
+
+Alignment with the Fellowship Scope
+This work sits squarely within the AI Metascience Fellowship's focus. It addresses how the adoption of AI is changing the research landscape, especially in terms of how value is defined, identified, and acted upon. It investigates the epistemic and institutional implications of AI-mediated science. And it seeks to inform how funders and governments should respond to these shifts, through better tools, better understanding, and better policy.
+The project is ambitious, but tightly scoped for a single researcher over 19 months. It builds on existing infrastructures (e.g. CORE, Overton, OpenCitations), leverages accessible models (e.g. GPT-4, Claude), and targets tangible outputs with high policy and strategic relevance. In doing so, it aims to make a clear, timely, and constructive contribution to the future of research evaluation in an age increasingly shaped by AI.
+
+Application question
+
+How are you going to deliver your proposed work?
+Explain how you have designed your work so that it: is effective and appropriate to achieve your objectives is feasible, and comprehensively identiEes any risks to delivery and how you will manage them uses a clearly written and transparent methodology (if applicable) summarises the previous work and describes how you will build on and progress this work (if applicable) will maximise translation of outputs into outcomes and impacts 4. Approach https://funding-service.ukri.org/applications/APP71476
+References may be included in this section.
+Within this section you can also demonstrate elements of your responses in visual form, such as images, if relevant. use images sparingly and only to convey important information that cannot easily be put into words insert each new image onto a new line provide a descriptive legend for each image immediately underneath it (this counts towards your word limit) Eles must be smaller than 8MB and in JPEG, JPG, JPE, JFI, JIF, JFIF, PNG, GIF, BMP or WEBP format Your application may be rejected if images are provided without a descriptive legend in the text box, or are used to replace text that could be input into the text box.
+
+Approach Overview
+This project will be delivered over 19 months through a series of structured work packages, progressing from a theoretical and empirical review to hands-on model testing and stakeholder engagement, and culminating in actionable recommendations. The work will combine qualitative and quantitative methods, including literature analysis, AI model evaluation, and experimental user testing. A core component of the methodology is the empirical use of large language models to extract and synthesise evidence of research impact from openly available sources-including publications, policy citations, patents, and media. These outputs will then be evaluated for their accuracy, credibility, and practical value in the context of research funding. The work is structured to ensure early insights are captured, while building progressively toward more applied outputs. Tangible deliverables will include three publishable papers, alongside stakeholder-facing resources and recommendations.
+
+Work
+
+T1.2 -AI and Scientometrics Review
+Survey emerging research on the use of AI in metascience, particularly applications of LLMs and automated knowledge extraction in research evaluation, discovery, and synthesis.
+
+T1.3 -Technology and Tool Landscape Mapping
+Document and assess the landscape of tools and platforms relevant to impact discovery and synthesis, including CORE, OpenCitations, Overton, Lens.org, Altmetrics, etc.
+
+T1.4 -Framework and Paper Development
+Synthesise findings into a theoretical and conceptual framework for understanding the changing impact of science in the age of AI. Draft and submit a position paper (D1.1) setting out this framework and the critical questions that will be tested empirically in WP2 and WP3.
+
+Deliverables
+
+D1.1 -Position Paper (Month 5):
+A scholarly review and position paper https://funding-service.ukri.org/applications/APP71476 synthesising current approaches to impact evaluation, mapping the emerging role of AI in metascience, and proposing a conceptual framework for understanding the evolving value of science in an AIdriven research ecosystem. This paper will serve as a foundational reference point for the fellowship's empirical and policy-focused phases.
+
+Work Package 2 (WP2): Dataset Assembly and Model Testing
+Duration: Months 4-11 Primary Deliverable: D2.1 -Technical report and prototype outputs evaluating the use of large language models for impact evidence synthesis This work package forms the technical core of the project. It will build a representative dataset of research outputs with traceable societal impact signals and use it to test the capabilities of large language models (LLMs) in extracting, synthesising, and classifying research impact across multiple domains. The aim is to evaluate the feasibility and limitations of current AI models as tools for research funders and policymakers. The outputs from this work will feed into the second paper and form the empirical basis for stakeholder engagement in WP3.
+
+Tasks
+
+T2.1 -Research Case Selection and Dataset Construction
+Identify and assemble a diverse set of UK-based research cases using publicly available sources. This may include REF2021 Impact Case Studies, linked publications (via CORE), and associated policy documents, patents, or media mentions. Where possible, publications will be connected to funding sources using metadata, acknowledgements, or grant IDs.
+
+T2.2 -Impact Signal Aggregation
+For each research case, collect associated signals of societal impact from multiple sources: https://funding-service.ukri.org/applications/APP71476
+
+Work Package 3 (WP3): Stakeholder Evaluation and Use-Case Testing
+Duration: Months 10-16 Primary Deliverable: D3.1 -Evaluation report on stakeholder feedback and use-case relevance of AI-generated impact assessments This work package evaluates the practical value, credibility, and perceived usefulness of the outputs generated in WP2. It focuses on exploring how funders, policymakers, and impact professionals respond to AI-generated summaries and classifications of research impact. Rather than aiming for broad generalisability, this WP uses focused, qualitative engagement to gain deep insights into stakeholder expectations, concerns, and use cases. These insights will directly inform the final policy and process recommendations in WP4.
+
+Tasks
+
+T3.1 -Stakeholder Identification and Engagement Planning
+Identify and prioritise a targeted group of stakeholders, including individuals from funding agencies (e.g. UKRI councils), government policy units, research evaluation bodies, and HEI research offices.
+
+T3.2 -Use-Case Scenario Design
+Select 3-5 concrete use cases from the outputs of WP2 (e.g. impact summaries for specific REF case studies or grant-linked research projects). Package these into short vignettes, each including:
+A brief description of the project
+The AI-generated impact synthesis Supporting data (e.g. policy citation or patent evidence)
+A prompt for participant reflection
+
+T3.3 -Qualitative Evaluation Sessions
+Conduct structured feedback sessions, focusing on: Perceived credibility of the AI-generated outputs Usefulness for decision-making, communication, or strategic planning Trust, transparency, and concerns (e.g. hallucination risk, black-box behaviour)
+Suggestions for integration into current funding or evaluation workflows
+
+T3.4 -Thematic Analysis and Reporting
+Analyse the qualitative data to identify key patterns, divergent views, and actionable insights. Feed these directly into WP4 and the second published paper (Paper #2).
+
+Deliverables
+
+D3.1 -Stakeholder Evaluation Report (Month 16):
+A report summarising the results of qualitative stakeholder engagement, including feedback on the credibility, utility, and future potential of AIgenerated impact assessments. This report will also inform the development of policy recommendations in WP4 and contribute to Paper #2.
+
+Work Package 4 (WP4): Synthesis and Policy Recommendations
+Duration: Months 15-19 Primary Deliverable: D4.1 -Final recommendations report outlining how research evaluation processes can adapt to an AI-mediated science ecosystem This work package brings together insights from the preceding work to produce clear, actionable recommendations for how AI technologies could be responsibly integrated into research evaluation and impact assessment processes. It synthesises technical findings, conceptual insights, and stakeholder perspectives into a structured output aimed at funders, policymakers, and the wider metascience community. This final phase also includes the preparation of the third major output of the fellowship: a policy-and practice-facing report or paper outlining the implications of the work.
+
+Tasks
+
+T4.1 -Synthesis of Project Findings
+Consolidate outputs from WP1-WP3, including the literature review, AI model testing, and stakeholder feedback. Identify overarching themes, key risks and opportunities, and areas of convergence or contention across the data.
+
+T4.2 -Recommendations Development Develop structured recommendations addressing:
+How funders could integrate AI-assisted impact evaluation into funding or review workflows.
+Where automation can reduce burden without compromising rigour.
+The role of humans in validating or interpreting AI-generated https://funding-service.ukri.org/applications/APP71476 impact evidence.
+Risk management strategies, including transparency, explainability, and verification processes.
+
+T4.3 -Dissemination Planning and Knowledge Translation
+Translate recommendations into accessible formats for different audiences (e.g. funders, research managers, policymakers). Develop presentation materials, visual summaries, or prototype guidance tools as appropriate.
+
+T4.4 -Final Paper Preparation
+Draft and submit a third paper / policy report presenting the final recommendations. This will be aimed at a policy, metascience, or science governance journal, or released as a white paper targeting UKRI and similar institutions.
+
+Deliverables
+
+D4.1 -Final Recommendations Report (Month 19):
+A published or publishable report synthesising the project's findings into a coherent set of evidence-based recommendations for how research evaluation processes should evolve in response to the rise of AI-mediated science.
+Project Timeline https://funding-service.ukri.org/applications/APP71476
+The approach outlined above has been carefully designed to balance ambition with feasibility, and exploration with delivery. By combining conceptual, technical, and stakeholder-facing work packages, the project ensures that it does not merely theorise about AI's role in research evaluation, but actively tests, demonstrates and critiques its application in real-world contexts. Each phase builds toward the next: WP1 grounds the work in evidence and frames the questions; WP2 provides technical depth and methodological innovation; WP3 ensures relevance and rigour through engagement; and WP4 translates learning into actionable recommendations.
+Importantly, the approach is structured to produce early, visible outputs, such as the review paper and the prototype evaluations while also supporting sustained reflection and iteration. This gives the fellowship the agility to respond to emerging developments in AI and impact policy, without losing sight of its overarching aims. By integrating robust evaluation methods, leveraging accessible technical infrastructure, and engaging stakeholders throughout, the approach maximises the likelihood that the project will deliver both academic insight and policy relevance. https://funding-service.ukri.org/applications/APP71476
+
+Application question
+
+Why are you the right individual to successfully deliver the proposed work?
+Evidence of how you have: the relevant experience (appropriate to career stage) to make best use of the beneEts presented by this funding opportunity to develop your career the right balance of skills and aptitude to deliver the proposed work contributed to developing a positive research environment and wider community Within this section you can also demonstrate elements of your responses in visual form, such as images, if relevant. use images sparingly and only to convey important information that cannot easily be put into words insert each new image onto a new line provide a descriptive legend for each image immediately underneath it (this counts towards your word limit) Eles must be smaller than 8MB and in JPEG, JPG, JPE, JFI, JIF, JFIF, PNG, GIF, BMP or WEBP format Your application may be rejected if images are provided without a descriptive legend in the text box, or are used to replace text that could be input into the text box.
+The word limit for this section is 1,650 words, 1,150 words to be used for R4RI modules (including references) and, if necessary, a further 500 words for Additions.
+Use the Résumé for Research and Innovation (R4RI) format to showcase the range of relevant skills you have and how this will help to deliver the proposed work. You can include speciEc achievements and choose past contributions that best evidence your ability to deliver this work.
+Complete this section using the following R4RI module headings. You should use each heading once, see the UKRI guidance on R4RI 5. Applicant capability to deliver https://funding-service.ukri.org/applications/APP71476 (https://www.ukri.org/apply-for-funding/before-you-apply/resume-for-researchand-innovation-r4riguidance/#:~:text=UKRI%20committed%20to%20adopting%20a,UKRI%20throug hout%202022%20and%202023.). You should consider how to balance your answer, and emphasise where appropriate the key skills you bring: contributions to the generation of new ideas, tools, methodologies, or knowledge the development of others and maintenance of effective working relationships contributions to the wider research and innovation community contributions to broader research or innovation, users and audiences, and towards wider societal beneEt Additions: Provide any further details relevant to your application. This section is optional and can be up to 500 words. You should not use it to describe additional skills, experiences, or outputs, but you can use it to describe any factors that provide context for the rest of your R4RI (for example, details of career breaks if you wish to disclose them). You should complete this section as a narrative. Do not format it like a CV. The roles in funding applications policy (https://www.ukri.org/publications/roles-in-funding-applications/) has descriptions of the different project roles.
+
+Contributions to the Generation of New Ideas, Tools, Methodologies or Knowledge
+My academic career has centred on understanding how research creates value-intellectually, socially, and politically-and how we can use digital technologies to evaluate and communicate that value more effectively. I have a strong foundation in scholarly communication, open science, and research evaluation, combined with applied experience in natural language processing (NLP) and AI methods. As a part of my PhD, I undertook the largest-ever study of UK REF outputs, analysing more than 190,000 full-text submissions to explore how research is presented, cited, and interpreted across disciplines. As part of this work, I developed a high-quality, large-scale annotated dataset of citation contexts and functions, which remains one of the most substantial resources of its kind. This work revealed key insights into disciplinary differences in citation behaviour and contributed to debates about the limitations of traditional citation-based metrics. It was recognised with a Best Paper award at TPDL 2018 and has since informed multiple follow-on studies in citation analysis and metascience. This work not only offered new evidence on the epistemic and structural challenges of national research evaluation systems, but also deepened my understanding of how research value is constructed and contested at scale. I am particularly interested in how technical systems shape what counts as knowledge and who gets to claim impact.
+More recently, I conceived, designed, and co-developed CORE-GPT, an innovative prototype that uses generative AI to answer natural language queries using Open Access research outputs. Built within the CORE ecosystem (which aggregates more than 280 million full-text research papers from global repositories), CORE-GPT integrates large language models with a retrieval-augmented generation (RAG) pipeline, offering users fluent and source-attributed summaries grounded in actual scholarly articles. Developing the system involved iterative experimentation with prompting strategies, search relevance refining, and hallucination mitigation-skills that directly inform the proposed fellowship. This work was recognised with a Best Paper award at TPDL 2023.
+
+I was also a
+
+The Development of Others and Maintenance of Effective Working Relationships
+Mentorship, collaboration, and relationship-building have been central to my work. I have directly supervised one PhD student to successful completion and mentored four others at various stages of their doctoral journey. These relationships have involved everything from supporting literature reviews to discussing research careers, publishing, and imposter syndrome. I take mentorship seriously and view it as a mutual process of learning and growth.
+In the SoFAIR project, I have acted as Open Science Lead across the consortium, supporting colleagues in developing ethical, reproducible, and FAIR-aligned workflows. I was lead author on the project's Data Management Plan and coordinated the writing of the internal project handbook, which serves as a governance and collaboration guide for all partners. I also chair regular WP meetings, ensuring inclusivity, clear communication, and shared ownership of tasks.
+I have experience working across disciplinary and professional boundaries-including with software engineers, policy analysts, library https://funding-service.ukri.org/applications/APP71476 staff, and senior academic stakeholders. I am skilled at translating between technical and non-technical perspectives and building a shared vocabulary where needed. These abilities are essential for the proposed fellowship, which requires both deep technical experimentation and high-quality engagement with funders and policymakers.
+I also try to create and maintain spaces for collaborative thinking. Whether through Knowledge Makers (below), internal working groups, or open workshops, I am committed to building an academic culture that values curiosity, care, and shared expertise.
+
+Contributions to the Wider Research and Innovation Community
+My work consistently aims to bridge research, infrastructure, and policy. As a member of the CORE team, I have contributed to a globally significant Open Access platform used by institutions, developers, and researchers around the world. CORE supports discovery, metadata enrichment, and compliance checking, and is integrated into dozens of national and institutional repositories. My contributions to CORE-GPT and related services have extended this impact into the realm of generative AI-offering a new way of making open knowledge accessible, explainable, and usable.
+I am also the co-founder of Knowledge Makers, a grassroots research and innovation network at The Open University. Since 2018, we have hosted over 30 events, ranging from maker meetups to hands-on workshops and creative coding sessions. Our events have brought together academic staff, developers, technicians, and professional services staff in new and unexpected configurations. Several of these collaborations have resulted in funded projects, joint publications, or ongoing initiatives. Knowledge Makers is part of my broader belief that research cultures can and should be more inclusive and community-led.
+
+Contributions to Broader Research/Innovation-Users and Audiences and Towards Wider Societal Benefit
+Much of my work has been shaped by the belief that research only matters if it reaches and supports the people who need it. In the ON-MERRIT project, I worked with an EU-wide team to explore how open science practices intersect with social inequality. We found that while openness increases access in principle, it does not automatically resolve structural disparities in who benefits from research. Our findings were shared with funders and policymakers and contributed to a growing conversation about equity, privilege, and the unintended consequences of well-meaning innovation.
+In SoFAIR, I help to promote software sustainability and reusability across disciplines. I contribute to the writing and dissemination of open guidance materials and collaborative standards that enable better maintenance and reuse of research software. Through Knowledge Makers, I have helped build a platform that showcases how research can intersect with local communities, creative practice, and hands-on experimentation. Our workshops-covering everything from 3D printing to public data visualisation-have drawn participants from across the university and beyond. They demonstrate that research impact is not just about citations or policy uptake, but about how knowledge is made accessible and shareable.
+These themes will be central to this fellowship, and I am committed to ensuring that any tools or insights developed are usable, transparent, and grounded in the real needs of research users
+
+Conclusion
+This fellowship is a natural next step in my research journey. I believe I bring a combination of conceptual insight, technical skill, and delivery experience, alongside a sustained commitment to open, collaborative, and responsible research. I have helped deliver tools and services that serve millions of users, contributed to projects that shape policy and infrastructure, and built communities of practice across disciplines and institutions.
+I am excited to lead a research programme that addresses one of the most urgent and complex challenges facing the research system: how we understand and communicate the value of science in an AI-mediated world.
+
+How will the host organisation support your fellowship?
+Provide a support statement including: evidence detailing how the host will support you, as appropriate for your career development and the vision and approach of the fellowship who you have engaged with in your host organisation (name and role) how your research environment will contribute to the success of the work, in terms of suitability of the host organisation and strategic relevance to the project how the host organisation will ensure your time commitment to the fellowship is protected what development and training opportunities will be provided and how they form a cohesive career development package tailored to your aims and aspirations what Enancial or practical support, such as access to the appropriate services, facilities, infrastructure, or equipment, is being provided and how this strengthens your application
+
+Host Organisation Support
+The proposed fellowship will be hosted by The Open University (OU), specifically within the Knowledge Media Institute (KMi) (https://kmi.open.ac.uk)-a long-established research and development laboratory situated in the STEM Faculty. KMi is internationally recognised for its work in artificial intelligence, scholarly communication, and digital innovation, and offers an exceptionally wellaligned environment for this fellowship.
+
+Strategic Fit and Institutional Commitment
+7. Host organisation support https://funding-service.ukri.org/applications/APP71476 KMi's thematic focus-combining AI, open access, research infrastructures, and knowledge discovery-closely aligns with the aims of the AI Metascience Fellowship. The lab has a strong track record of delivering high-impact, policy-relevant work, with particular expertise in open science infrastructure (e.g. CORE), and responsible AI. Its research portfolio includes EU Horizon, UKRI, and Innovate UK projects that address the future of knowledge systems from both a technical and societal perspective.
+The Open University is strongly committed to supporting the growth and visibility of early career researchers and to building capacity in metascience and responsible innovation. The proposed project complements institutional priorities around AI, open research, and impact, and has received enthusiastic support from both the lab and the wider university. The fellowship has been discussed in detail with Professor Petr Knoth (Director of CORE and lead PI on multiple EU projects), who will act as primary mentor throughout the duration of the award. Professor Knoth is a senior researcher with deep experience in AI, open science infrastructure, and research policy.
+The application has also been reviewed and endorsed by senior members of KMi's leadership team including the Director of KMi, Professor Harith Alani and the STEM Faculty research office. This ensures alignment with institutional planning and access to the full range of available support.
+
+Protection of Research Time and Independence
+If awarded, the Open University will ensure that the fellow's time is fully protected for the delivery of the project. The Fellow will be based within KMi as a full-time researcher. While embedded within the research community, the Fellow will retain full intellectual and operational independence, with clear ownership of all outputs and the freedom to shape collaborations and dissemination plans.
+The STEM Faculty recognises the importance of supporting independent postdoctoral researchers and has committed to ensuring that all fellowship-related activities are prioritised.
+Practical and Technical Support https://funding-service.ukri.org/applications/APP71476
+The Fellow will have access to a full range of services and infrastructure required to deliver the project successfully. These include:
+
+Secure
+
+Research Environment and Community
+KMi hosts a vibrant, interdisciplinary community of researchers working on AI, open knowledge, digital humanities, and responsible innovation. It offers a lively programme of internal seminars, invited speakers, peer review sessions, and collaborative development sprints. The Fellow will be fully integrated into this community and encouraged to present work in progress, collaborate with colleagues, and participate in joint publications and events.
+In addition to the immediate research group, the STEM Faculty houses significant expertise in education, research policy, and social impactoffering valuable opportunities for cross-faculty collaboration. The Fellow will be encouraged to engage with the wider OU research community.
+KMi also has a strong culture of engagement with national and international infrastructure and policy bodies, including Jisc, UKRI, COAR, and UNESCO. This provides valuable opportunities for the Fellow to engage with stakeholders, gain insight into policy developments, and position their work within broader strategic conversations about the future of science.
+
+Training, Mentoring, and Career Development
+The Open University is committed to the professional and personal development of early career researchers. The Fellow will have access to the full suite of institutional researcher development programmes, including:
+Training in writing, publication strategy, and impact planning
+
+Leadership and mentoring development courses tailored to postdoctoral researchers
+The OU's Researcher Career Development Framework, which provides structured guidance on skills development across teaching, research, knowledge exchange, and enterprise In addition, the Fellow will be supported to attend UKRI events, international conferences, and any relevant training offered through the AI Metascience Fellowship programme. These external opportunities will be integrated into a personalised development plan, agreed with the host mentor at the start of the award and reviewed at regular intervals.
+Professor Knoth will provide regular mentorship meetings and strategic advice on technical, stakeholder, and career development aspects of the fellowship. The Fellow will be encouraged to develop new collaborative relationships within and beyond the university and to explore opportunities for leadership in future projects. https://funding-service.ukri.org/applications/APP71476
+
+Summary
+The Open University is fully committed to supporting the proposed fellowship and to providing an excellent environment for its success. The combination of KMi's thematic strengths, practical infrastructure, policy connections, and supportive research culture make it an ideal host for a project focused on the future of AI-mediated science. The institution recognises the strategic importance of metascience, responsible AI, and research culture reform, and sees this fellowship as an important opportunity to advance these agendas while supporting the development of a future research leader.
+
+Stakeholder engagement and consent:
+WP3 involves interviews and feedback sessions with research funders and policy professionals. While this is low risk, all participants will receive clear, accessible information sheets and consent forms approved by the institutional ethics board. Participants will retain the right to withdraw and request data deletion at any time. No personal data will be shared without consent, and any transcripts will be anonymised.
+
+LLM-generated content:
+WP2 produces AI-generated impact summaries and classifications. These outputs may inadvertently contain hallucinated or misleading content. To mitigate this, all model outputs will be reviewed for truthfulness and transparency, and clearly labelled when derived from AI. The project does not use AI to make evaluative decisions-only to assist in synthesis and interpretation.
+
+Responsible AI use:
+All AI model usage will follow best practices for responsible prompt engineering, and outputs will be assessed for explainability and factual consistency. No personal or sensitive data will be submitted to commercial API endpoints. Where open-source models are used, they will be hosted on institutional infrastructure with clear audit trails.
+
+Data reuse and third-party rights:
+Most data used in this project is public (e.g. REF case studies, open access scholarly documents from CORE, policy documents), but some sources (e.g. Overton or GDELT) may carry licence restrictions. The project will only share derived or summarised data in such cases and will not redistribute proprietary datasets.
+
+Reflexivity and bias:
+As the project evaluates both AI tools and impact definitions, it takes a reflexive stance on its own assumptions. Regular self-assessment checkpoints will be built into the project to reflect on potential framing or confirmation biases, especially when interpreting stakeholder feedback.
+
+Ethical Governance
+A formal ethics review will be submitted to the Open University's ethics committee before any stakeholder data is collected. Anonymisation, secure storage, and GDPR compliance protocols will be implemented throughout. No work with vulnerable populations or protected characteristics is anticipated.
+The fellowship will also engage in ongoing responsible innovation dialogue, including participation in UKRI-supported events and peer exchanges through the AI Metascience cohort, ensuring alignment with broader policy and social expectations.
+
+Application question
+How licensing restrictions. In such cases, only derived or aggregated data will be shared.
+Stakeholder confidentiality: All qualitative data will be anonymised. Direct quotes will only be included with explicit consent.
+Model output risk: AI-generated outputs will be reviewed for hallucinations or unverifiable content and flagged accordingly.
+Every effort will be made to maximise transparency while respecting ethical and legal obligations.
+
+Archiving and Data Sharing Plan
+At the end of the award, the following datasets will be prepared for submission to the UK Data Service (UKDS) or another recognised repository (e.g. Zenodo, Figshare):
+
+Annotated research case dataset with impact signals and model outputs
+Prompting strategies and model evaluation outputs Thematic summaries and anonymised transcripts from stakeholder sessions (where consented)
+All datasets will include appropriate documentation (e.g. codebooks, methodology notes, README files) to ensure long-term reusability. Open licences (e.g. CC BY or CC BY-NC) will be used wherever possible. Restricted access will be applied only where necessary due to licensing or confidentiality requirements.
+
+Application question
+Does your proposed work require the support and use of a facility?
+If you will need to use a facility, follow your proposed facility's normal
+
+Facilities
+
+Data Types and Sources
+The project will generate and use two broad data categories:
+1. Processed public data Structured datasets derived from openly available sources including REF2021 Impact Case Studies, CORE publications, policy citations (e.g. Overton), patents (e.g. Lens.org), media coverage (e.g. GDELT), and spinout data (e.g. Companies House). These will be cleaned, annotated, and formatted to support prompting and LLM evaluation. While based on public data, the resulting structured outputs will form a novel dataset.
+
+Stakeholder engagement data
+Qualitative data from small-group sessions and interviews with funders, policy professionals, and research managers (see WP3). This includes audio recordings, transcripts, coded summaries, and thematic analyses.
+
+Data Storage, Security, and Access
+All data will be stored on institutional servers compliant with UK GDPR and ISO/IEC 27001 standards, with access limited to the researcher and supervisory team. Personal data will be anonymised as early as possible using established techniques such as name/affiliation redaction and removal of identifiable references.
+Cloud-based services (e.g. OpenAI, Anthropic) may be used for inference on public data only. No personal or sensitive data will be transmitted to third-party services.
+
+Ethical and Legal Considerations
+The project will adhere to the ESRC Framework for Research Ethics. A full ethics review will be sought from the host institution prior to WP3. Participants will be fully informed of the project's aims, and written consent will be obtained-including consent for anonymised data sharing, where applicable. No data will be collected from vulnerable populations or high-risk settings.
+
+Challenges to Data Sharing and Mitigation
+
+Key challenges and mitigations include:
+Third-party licences: While most sources (e.g. REF, CORE, OpenCitations) are open, platforms like Overton or GDELT may carry access request procedures. Ensure you have prior agreement so that if you are offered funding, they will support the use of their facility on your project.
+For each requested facility you will need to provide the: name of facility, copied and pasted from the facility information list (DOCX, 42KB) (https://ukri-tfs-prod-assets.s3.eu-west-2.amazonaws.com/Facility+Information+for+TFS+updated+Sept+24.docx) proposed usage or costs, or costs per unit where indicated on the facility information list conErmation you have their agreement where required Facilities should only be named if they are on the facility information list above. If you will not need to use a facility, you can just type 'Not applicable'.
